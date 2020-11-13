@@ -1,6 +1,13 @@
 # slack-bot-101
 A slack bot demonstrates some basic listener/slack command functionality
 
+## Usage
+Make sure you have node (NodeJS) installed.
+```bash
+npm install
+node bot.js
+```
+
 ## Resources
 I used the following resources to build this example bot.
 
