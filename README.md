@@ -1,5 +1,7 @@
 # slack-bot-101
-A slack bot demonstrates some basic listener/slack command functionality
+A slack bot demonstrates some basic listener/slack command functionality.
+
+Used for a lunch and learn.
 
 ## Usage
 Make sure you have node (NodeJS) installed.
